@@ -1,6 +1,7 @@
 # asana-project-name-chrome-extension
 
-> a chrome extension tools built with Vite + Vanilla-ts, and Manifest v3
+> A Chrome extension to display the project name in boards on app.asana.com, as requested here: https://forum.asana.com/t/see-project-name-on-each-task-on-board-view/109104/71
+> You can install the extension here: https://chromewebstore.google.com/detail/asana-display-project-nam/kicpjbpfhdgjhodbjpmbknaokedbainp
 
 ## Installing
 
